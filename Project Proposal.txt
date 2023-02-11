@@ -1,0 +1,10 @@
+# Project Proposal
+
+* Our project is to explore Netflix shows by genre, IMDB review data, and geography. We want to examine the relationship between country and show popularity, looking at the influence of genre, IMBD ratings, and other factors, as data allows. 
+
+## Data Sources
+
+* IMDB API
+* https://top10.netflix.com/tv
+* https://www.kaggle.com/datasets/shivamb/netflix-shows
+* Google Maps API
